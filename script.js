@@ -360,7 +360,7 @@ function showProjectDetails(projectId) {
                 'Managing concurrent bookings across multiple operators',
                 'Integrating marine conservation educational content seamlessly'
             ],
-            outcome: 'Successfully deployed as SEATRU UMT Final Year Project with excellent feedback from supervisors and stakeholders. The boat operator dashboard streamlined trip management, increased booking efficiency by 40%, and raised awareness about marine conservation. The platform effectively connects customers with responsible boat operators while promoting sea turtle protection.'
+            outcome: 'Successfully completed as SEATRU UMT Final Year Project with excellent feedback from supervisors and stakeholders. The boat operator dashboard effectively manages trip bookings and raises awareness about marine conservation. The platform demonstrates the integration of e-commerce functionality with environmental education, connecting customers with responsible boat operators while promoting sea turtle protection.'
         },
         quickbite: {
             title: 'Quick Bite: Food Ordering Platform',
@@ -376,17 +376,15 @@ function showProjectDetails(projectId) {
             features: [
                 'Recipe search and discovery powered by Spoonacular API',
                 'Restaurant browsing with detailed menus and ratings',
-                'Real-time location tracking with Google Maps API integration',
-                'Interactive map showing restaurant locations and delivery routes',
-                'Secure payment processing through PayPal API',
-                'User authentication and comprehensive profile management',
-                'Shopping cart with item customization and special instructions',
-                'Order tracking with real-time status updates',
-                'Rating and review system with photo uploads',
-                'Order history with easy reordering functionality',
-                'Restaurant dashboard for order and menu management',
-                'Push notifications for order updates',
-                'Delivery time estimation based on real-time traffic data'
+                'Location services with Google Maps API integration',
+                'Interactive map showing restaurant locations',
+                'Payment gateway integration with PayPal API',
+                'User authentication and profile management',
+                'Shopping cart with item customization',
+                'Order tracking with status updates',
+                'Rating and review system',
+                'Order history functionality',
+                'Restaurant dashboard for order and menu management'
             ],
             technologies: [
                 'HTML5',
@@ -407,28 +405,26 @@ function showProjectDetails(projectId) {
                 'Managing API rate limits and optimizing API calls',
                 'Synchronizing order status across multiple user interfaces'
             ],
-            outcome: 'Successfully integrated three major APIs creating a seamless food ordering experience. Achieved 99.9% payment processing success rate with PayPal integration. The platform handles real-time tracking for multiple concurrent orders with zero lag. Received high praise for innovative use of APIs in academic setting.'
+            outcome: 'Successfully completed as an academic project demonstrating API integration skills. The platform effectively showcases the ability to work with multiple third-party APIs including Spoonacular, PayPal, and Google Maps, creating a functional prototype for a modern food ordering system.'
         },
         kfun: {
             title: 'K-Fun Booking System',
             subtitle: 'Web Application Development',
             description: 'An innovative web-based karaoke booking system that transforms how entertainment venues manage reservations. Developed using HTML, Java, and CSS with phpMyAdmin for database management, this system automates scheduling and enhances operational efficiency.',
             objectives: [
-                'Streamline karaoke room reservation process',
-                'Automate booking confirmations and notifications',
+                'Create a karaoke room reservation system',
                 'Manage room availability in real-time',
                 'Provide customers with easy booking interface',
-                'Generate reports for business management'
+                'Implement booking management functionality',
+                'Design user-friendly admin dashboard'
             ],
             features: [
                 'Online karaoke room reservation portal',
                 'Real-time room availability checker with calendar view',
-                'Automated email booking confirmation system',
                 'Session time management with flexible duration options',
                 'Customer booking history and profile management',
                 'Admin panel for room and booking management',
-                'Payment tracking and invoice generation',
-                'Peak hour pricing management',
+                'Booking status tracking',
                 'Mobile-responsive interface'
             ],
             technologies: [
@@ -444,10 +440,10 @@ function showProjectDetails(projectId) {
             challenges: [
                 'Preventing double bookings with concurrent users',
                 'Implementing flexible time slot management',
-                'Creating an intuitive booking calendar',
-                'Handling peak hours and pricing variations'
+                'Creating an intuitive booking calendar interface',
+                'Managing real-time room availability updates'
             ],
-            outcome: 'Reduced booking conflicts by 95% and improved customer satisfaction. The system processes an average of 50+ bookings per day with zero downtime.'
+            outcome: 'Successfully developed as an academic group project demonstrating full-stack web development skills. The system effectively manages karaoke room bookings with real-time availability checking and comprehensive admin controls, showcasing proficiency in Java web development and database management.'
         },
         jobtracker: {
             title: 'Job Application Tracker System',
@@ -456,21 +452,19 @@ function showProjectDetails(projectId) {
             objectives: [
                 'Help users organize multiple job applications efficiently',
                 'Track application status from submission to offer',
-                'Manage interview schedules and follow-ups',
-                'Store and organize career-related documents',
+                'Manage application deadlines and follow-ups',
+                'Store application information and notes',
                 'Provide insights through analytics and statistics'
             ],
             features: [
                 'Application tracking with customizable status stages',
-                'Interview scheduling with calendar integration',
                 'Reminder system for follow-ups and deadlines',
                 'Company and position information database',
-                'Document management (CV, cover letters, certificates)',
                 'Analytics dashboard with visual charts',
                 'Application timeline and history',
                 'Notes and comments for each application',
-                'Export data to PDF and Excel',
-                'Search and filter capabilities'
+                'Search and filter capabilities',
+                'User dashboard with statistics'
             ],
             technologies: [
                 'HTML5',
@@ -488,7 +482,7 @@ function showProjectDetails(projectId) {
                 'Creating meaningful analytics and visualizations',
                 'Ensuring data security and privacy'
             ],
-            outcome: 'Successfully helps users manage an average of 30+ job applications with 85% better organization. Users reported 50% improvement in interview preparation and follow-up timing.'
+            outcome: 'Successfully completed as an academic project showcasing web application development skills. The system provides a practical solution for job seekers to organize and track their applications, demonstrating proficiency in full-stack development, database design, and creating intuitive user interfaces with data visualization.'
         }
     };
     
