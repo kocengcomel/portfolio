@@ -6,9 +6,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nurarisha6221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kocengcomel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
@@ -137,14 +136,14 @@ Currently working on new projects. Watch this space — something great is alway
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&icon_color=A9CCE3&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kocengcomel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&icon_color=A9CCE3&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocengcomel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&text_color=ffffff" height="165"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=2E86C1&ring=2E86C1&fire=E74C3C&currStreakLabel=ffffff&sideLabels=ffffff&dates=A9CCE3)
+![GitHub Streak](https://streak-stats.demolab.com?user=kocengcomel&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=2E86C1&ring=2E86C1&fire=E74C3C&currStreakLabel=ffffff&sideLabels=ffffff&dates=A9CCE3)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1B2A&color=A9CCE3&line=2E86C1&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kocengcomel&bg_color=0D1B2A&color=A9CCE3&line=2E86C1&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -168,7 +167,7 @@ Currently working on new projects. Watch this space — something great is alway
 
 > *"Some people read about the world. I coded through it."*
 
-[![Visit Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E86C1&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Visit Count](https://komarev.com/ghpvc/?username=kocengcomel&label=Profile%20Views&color=2E86C1&style=for-the-badge)](https://github.com/kocengcomel)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:1B4F72,100:0D1B2A&height=150&section=footer&text=Open%20for%20Internship%20Aug%202026%20–%20Jan%202027&fontSize=18&fontColor=A9CCE3&fontAlignY=65&animation=fadeIn" />
 
