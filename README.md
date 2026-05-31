@@ -1,212 +1,175 @@
-# Arisha Sofia - Portfolio Website
+<div align="center">
 
-A modern, responsive personal portfolio website showcasing my skills, education, projects, and achievements as a Software Engineering student.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:1B4F72,100:2E86C1&height=250&section=header&text=Arisha%20Sofia&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=⚡%20Software%20Engineer%20in%20the%20Making%20⚡&descAlignY=60&descColor=A9CCE3&animation=fadeIn" />
 
-## 🌟 Features
-
-- **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
-- **Modern UI/UX**: Clean, professional design with smooth animations and transitions
-- **Interactive Navigation**: Smooth scrolling navigation with active link highlighting
-- **Project Showcase**: Detailed presentation of academic projects
-- **Skills Display**: Comprehensive technical skills organized by category
-- **Achievements Section**: Academic awards and professional certifications
-- **Contact Form**: Easy-to-use contact form with email integration
-- **Dark Theme**: Eye-friendly dark color scheme with gradient accents
-
-## 🚀 Technologies Used
-
-- **HTML5**: Semantic markup structure
-- **CSS3**: Modern styling with Flexbox, Grid, and animations
-- **JavaScript**: Interactive features and DOM manipulation
-- **Font Awesome**: Icon library for visual elements
-
-## 📁 File Structure
-
-```
-portfolio/
-│
-├── index.html          # Main HTML file with all sections
-├── styles.css          # CSS styling and responsive design
-├── script.js           # JavaScript for interactivity
-└── README.md           # Project documentation
-```
-
-## 🎨 Sections
-
-1. **Hero Section**: Introduction with name, title, and social links
-2. **About**: Professional summary, qualities, and languages
-3. **Education**: Academic timeline with degree details
-4. **Projects**: Showcase of three major academic projects
-5. **Skills**: Technical skills categorized by area (Frontend, Backend, Database, IoT, Tools, etc.)
-6. **Achievements**: Dean's List awards and professional certifications
-7. **Contact**: Contact information and form with reference details
-
-## 🛠️ Setup & Installation
-
-1. **Clone or Download** the portfolio files to your local machine
-
-2. **File Structure**: Ensure all files are in the same directory:
-   - index.html
-   - styles.css
-   - script.js
-
-3. **Open in Browser**: Simply open `index.html` in any modern web browser
-
-   ```bash
-   # On Windows
-   start index.html
-   
-   # On Mac
-   open index.html
-   
-   # On Linux
-   xdg-open index.html
-   ```
-
-## 🌐 Deployment Options
-
-### Option 1: GitHub Pages
-1. Create a new repository on GitHub
-2. Upload all portfolio files
-3. Go to Settings → Pages
-4. Select main branch as source
-5. Your site will be live at `https://username.github.io/repository-name`
-
-### Option 2: Netlify
-1. Sign up at [Netlify](https://www.netlify.com)
-2. Drag and drop your portfolio folder
-3. Get instant deployment with custom domain option
-
-### Option 3: Vercel
-1. Sign up at [Vercel](https://vercel.com)
-2. Import your project from GitHub or upload files
-3. Automatic deployment with every update
-
-### Option 4: Local Hosting
-Simply open the `index.html` file in any web browser - no server required!
-
-## 📱 Browser Compatibility
-
-- ✅ Chrome (recommended)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
-- ✅ Opera
-
-## 🎯 Customization Guide
-
-### Update Personal Information
-
-**Contact Details** (in `index.html`):
-```html
-<!-- Update these sections -->
-<a href="mailto:your-email@gmail.com">
-<a href="tel:+60123456789">
-```
-
-**Social Media Links**:
-```html
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-<a href="https://github.com/your-username" target="_blank">
-```
-
-### Modify Colors
-
-Edit the CSS variables in `styles.css`:
-```css
-:root {
-    --primary-color: #6366f1;      /* Main brand color */
-    --secondary-color: #8b5cf6;     /* Secondary accent */
-    --accent-color: #ec4899;        /* Highlight color */
-    /* ... modify other colors as needed */
-}
-```
-
-### Add More Projects
-
-Copy and paste this structure in the projects section:
-```html
-<div class="project-card">
-    <div class="project-icon">
-        <i class="fas fa-icon-name"></i>
-    </div>
-    <h3>Project Name</h3>
-    <p class="project-type">Project Type</p>
-    <p>Project description here...</p>
-    <div class="project-tech">
-        <span class="tech-tag">Technology 1</span>
-        <span class="tech-tag">Technology 2</span>
-    </div>
 </div>
-```
 
-### Update Skills
+<div align="center">
 
-Add new skills in the respective category:
-```html
-<span class="skill-badge">New Skill</span>
-```
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nurarisha6221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## ✨ Features Breakdown
+<br><br>
 
-### Animations
-- Smooth scroll navigation
-- Fade-in animations on scroll
-- Hover effects on cards and buttons
-- Parallax effect on hero section
-- Typing effect on main title
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=🧠+Dean's+List+3x+%7C+Always+Building;🌍+Outbound+Alumni+%7C+Malaysia+→+Pakistan;⚡+Internship-Ready%3A+Aug+2026+–+Jan+2027;💡+Final-Year+SE+Student+%40+UMT)
 
-### Interactive Elements
-- Mobile-responsive hamburger menu
-- Active navigation highlighting
-- Button ripple effects
-- Form validation
-- Notification system
-
-### Accessibility
-- Semantic HTML structure
-- ARIA labels where needed
-- Keyboard navigation support
-- High contrast for readability
-
-## 📊 Performance
-
-- Lightweight: ~100KB total size
-- Fast loading: <1s on average connection
-- Optimized CSS and JavaScript
-- No external dependencies except Font Awesome CDN
-
-## 🔧 Future Enhancements
-
-Potential features to add:
-- [ ] Blog section
-- [ ] Dark/Light theme toggle
-- [ ] Portfolio filtering by technology
-- [ ] Animated statistics counter
-- [ ] Testimonials section
-- [ ] Download CV button
-- [ ] Multi-language support
-- [ ] Backend integration for contact form
-
-## 📝 License
-
-This portfolio is created for Arisha Sofia. Feel free to use the structure as inspiration for your own portfolio, but please don't use the personal information directly.
-
-## 👤 Contact
-
-**Arisha Sofia**
-- Email: nurarisha6221@gmail.com
-- Phone: +60 11 1098 9724
-- Location: Tanah Merah, Kelantan, Malaysia
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography inspiration
-- Color scheme inspired by modern UI design trends
+</div>
 
 ---
 
-**Built with ❤️ by Arisha Sofia**
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-*Last Updated: May 2026*
+## 👩‍💻 About Me
+
+> 🧠 **Dean's List. Outbound alumni. Always building.**
+> Final-year SE student @ UMT with real projects & real results
+> Internship-ready: **Aug 2026 – Jan 2027**
+
+- 🎓 Final-year **CS (Software Engineering) with Honours** @ UMT — CGPA **3.55**
+- 🌍 Represented **Faculty of CS & Mathematics** at AUST, Pakistan **(2026)**
+- 🏆 **3× Dean's List** awardee — consistency is my superpower
+- 🔥 Passionate about building real, user-centered software solutions
+- 🚀 Seeking internship: **3 Aug 2026 → 15 Jan 2027**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 Frameworks & Tools
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🧩 Concepts
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-0D1B2A?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-1B4F72?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Methodology-2E86C1?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-E74C3C?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-117A65?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 OceanTrust
+**Marine Tourism Marketplace**
+
+A web-based snorkeling trip marketplace built for **SEATRU UMT** — simplifies trip browsing & booking for marine tourism.
+
+`CodeIgniter 4` `PHP` `MySQL` `Bootstrap`
+
+</td>
+<td width="50%">
+
+### 🎤 K-Fun Booking System
+**Karaoke Session Booking App**
+
+Users reserve karaoke sessions seamlessly through a clean, intuitive interface.
+
+`HTML` `Java` `CSS` `phpMyAdmin`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 Job Application Tracker
+**Productivity Web App**
+
+Helps users organize and monitor their job applications efficiently — because staying organized matters.
+
+`HTML` `CSS` `Java` `phpMyAdmin`
+
+</td>
+<td width="50%">
+
+### 🎯 More coming soon...
+**Always Building**
+
+Currently working on new projects. Watch this space — something great is always in progress.
+
+`Stay tuned 👀`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Glory
+
+<div align="center">
+
+| 🥇 | Award | Semester | GPA |
+|:---:|:---|:---|:---:|
+| 🏅 | Dean's List Award | Semester 2 — 2023/2024 | **3.72** |
+| 🏅 | Dean's List Award | Semester 3 — 2024/2025 | **3.63** |
+| 🏅 | Dean's List Award | Semester 4 — 2024/2025 | **3.71** |
+| 🌍 | UMT Outbound Mobility — AUST Pakistan | 2026 | ✈️ |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&icon_color=A9CCE3&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E86C1&text_color=ffffff" height="165"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=2E86C1&ring=2E86C1&fire=E74C3C&currStreakLabel=ffffff&sideLabels=ffffff&dates=A9CCE3)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1B2A&color=A9CCE3&line=2E86C1&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![Bahasa Malaysia](https://img.shields.io/badge/🇲🇾%20Bahasa%20Malaysia-Excellent-2E86C1?style=for-the-badge)
+![English](https://img.shields.io/badge/🇬🇧%20English-Intermediate-1B4F72?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/🕌%20Arabic-Fair-0D1B2A?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great!
+
+> *"Some people read about the world. I coded through it."*
+
+[![Visit Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E86C1&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:1B4F72,100:0D1B2A&height=150&section=footer&text=Open%20for%20Internship%20Aug%202026%20–%20Jan%202027&fontSize=18&fontColor=A9CCE3&fontAlignY=65&animation=fadeIn" />
+
+</div>
